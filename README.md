@@ -6,8 +6,6 @@
   <img src="./src/imagens/one-piece.png/" width="100%" />
 </p>
 
-## 💻 Projeto
-
 ## 🚀 Tecnologias
 
 - HTML
